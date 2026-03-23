@@ -1,1 +1,1 @@
-# lecture-template
+Code for lecture 10.1: For Loops with Strings
